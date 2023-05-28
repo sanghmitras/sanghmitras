@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sanghmitras (sanghmitra singh)
-- 👀 I’m interested in web, mobile and desktop app development
-- 🌱 I’m currently working with worlds top edtech company
+- 👋 Hi, I’m @sanghmitras (sanghmitra singh rathore)
+- 👀 I’m developing web, mobile and desktop app
 - 📫 reach me here (sanghmitra1993@gmail.com)
 
